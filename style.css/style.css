@@ -1,0 +1,13 @@
+body {
+     background-color: brown;
+     color: black;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    color: azure;
+    font-size: 16px;
+}
