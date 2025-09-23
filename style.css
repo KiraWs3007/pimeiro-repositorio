@@ -1,6 +1,14 @@
 body {
-     background-color: brown;
+     background-color: rgb(154, 206, 241);
      color: black;
+     margin: 0px;
+}
+
+header {
+  border-bottom: solid 2px black;
+  padding: 20px;
+  font-size: 32px;
+  color: rgba(15, 4, 4, 0);
 }
 
 h1 {
