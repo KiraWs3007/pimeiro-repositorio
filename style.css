@@ -51,9 +51,9 @@ img {
   height: 200px;
 }
 
-.categoria-videos img: houver {
+.categoria-videos img:hover {
   opacity: 1.0;
-  border: 1px solid :blank;
+  border: 1px solid green;
 }
 
 
